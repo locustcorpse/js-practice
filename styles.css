@@ -129,3 +129,6 @@ div {
 #container{
     min-height: 50%;
 }
+h1{
+    text-decoration: none;
+}
