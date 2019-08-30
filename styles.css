@@ -90,6 +90,7 @@ body {
 .nav-div {
     width: 100%;
     display: flex;
+    text-decoration: none;
     background-color:gray;
 }
 .nav-div div{
